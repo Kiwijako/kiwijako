@@ -9,11 +9,11 @@ I enjoy understanding how things work under the hood and building structured, ef
 ## 🎯 Main Focus
 
 ### 💻 C++
-- Strong understanding of core C++ concepts
-- Object-Oriented Programming (OOP)
-- Memory management fundamentals
+- Understanding of core C++ concepts
+- Object-Oriented Programming (Basics)
+- Memory management (Basics)
 - Working with data structures
-- Problem-solving through algorithmic thinking
+- Problem-solving through algorithmic thinking (Practicing on Leetcode)
 - Writing clean and structured code
 
 ### 🎮 Game Development
@@ -28,12 +28,12 @@ I enjoy understanding how things work under the hood and building structured, ef
 
 ### Core Strengths
 - C++ (advanced)
+- C# (basic – Unity scripting)
 - Object-Oriented Design
 - Debugging & logical analysis
 - System-level thinking
 
 ### Secondary Skills
-- C# (basic – Unity scripting)
 - HTML (advanced)
 - CSS (basic)
 - JavaScript (basic)
@@ -50,10 +50,7 @@ I enjoy understanding how things work under the hood and building structured, ef
 
 ---
 
-## 📂 Selected Work
-
-### 🔹 FlatBuffers (fork)
-Working with serialization concepts in C++ to better understand memory efficiency and data layout.
+## 📂 Working on
 
 ### 🔹 Personal C++ Projects
 Practicing structured programming, logic, and object-oriented design.
@@ -71,9 +68,3 @@ Testing gameplay systems and mechanics inside Unity.
 - Continuous improvement  
 
 ---
-
-## 📫 Connect
-
-GitHub: https://github.com/Kiwijako  
-
-Open to collaboration on C++ or beginner–intermediate game development projects.

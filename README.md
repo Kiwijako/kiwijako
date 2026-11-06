@@ -25,16 +25,16 @@ I enjoy building games, experimenting with gameplay systems and learning more ab
 
 ### Main Focus
 
-- **C++** — OOP, memory management, data structures and algorithms
-- **Unreal Engine** — C++ gameplay programming and game systems
-- **Unity / C#** — Gameplay mechanics and scripting
-- **OpenGL** — Graphics programming
+- **C++** - OOP, memory management, data structures and algorithms
+- **Unreal Engine** - C++ gameplay programming and game systems
+- **Unity / C#** - Gameplay mechanics and scripting
+- **OpenGL** - Graphics programming
 
 ### Projects
 
-**Ashfall** — A top-down game built with Unreal Engine and C++. Currently in development.
+**Ashfall** - A top-down game built with Unreal Engine and C++. Currently in development.
 
-**Don't Let the Jack Pop** — A Unity game developed for B1T Jam.
+**Don't Let the Jack Pop** - A Unity game developed for B1T Jam.
 
 ### Currently Learning
 

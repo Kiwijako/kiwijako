@@ -32,9 +32,9 @@ I enjoy building games, experimenting with gameplay systems and learning more ab
 
 ### Projects
 
-**Ashfall** - A top-down game built with Unreal Engine and C++. Currently in development.
+**Ashfall** — A 3D top-down survival game built with Unreal Engine and C++. Fight waves of enemies and survive as long as possible. *(In development)*
 
-**Don't Let the Jack Pop** - A Unity game developed for B1T Jam.
+**Don't Let the Jack Pop** — A Unity/C# game made for B1T Jam. Keep the Jack inside the box by managing tension, winding the crank and collecting coins before time runs out.
 
 ### Currently Learning
 
